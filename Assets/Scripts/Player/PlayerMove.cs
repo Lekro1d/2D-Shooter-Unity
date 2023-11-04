@@ -8,7 +8,7 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private float _runSpeed;
 
     private Animator _animator;
-    public float _horizontal;
+    private float _horizontal;
     private bool _jump = false;
     private bool _crouch = false;
     void Start()

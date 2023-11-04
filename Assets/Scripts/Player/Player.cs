@@ -26,11 +26,11 @@ public class Player : MonoBehaviour
         {
             if (Input.GetMouseButton(0))
             {
-                Vector3 gunPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+                //Vector3 gunPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
-                int shootDirection = (gunPos.x < transform.position.x) ? 1 : -1;
+                int shootDirection = (_weapon.mousePos.x < _weapon.transform.position.x) ? 1 : -1;
                 _controller.Shoot(shootDirection);
-                _weapon.Shoot();
+                _weapon.StartCoroutine(_weapon.Shoot());
                 _shootTime = _startShootTime;
             }
         }
