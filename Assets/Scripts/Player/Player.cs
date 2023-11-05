@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UIElements;
 
 public class Player : MonoBehaviour
@@ -10,9 +11,12 @@ public class Player : MonoBehaviour
     [SerializeField] private float _startShootTime;
     [SerializeField] private CharacterController2D _controller;
 
-
+    public int Money { get; private set; }
     private float _shootTime;
     private int _currentHealth;
+
+    public UnityAction<int> MoneyChanged;
+    public UnityAction<int, int> HealthChanged;
     void Start()
     {
         _currentHealth = _health;
@@ -26,8 +30,6 @@ public class Player : MonoBehaviour
         {
             if (Input.GetMouseButton(0))
             {
-                //Vector3 gunPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-
                 int shootDirection = (_weapon.mousePos.x < _weapon.transform.position.x) ? 1 : -1;
                 _controller.Shoot(shootDirection);
                 _weapon.StartCoroutine(_weapon.Shoot());
@@ -35,5 +37,15 @@ public class Player : MonoBehaviour
             }
         }
         _shootTime -= Time.deltaTime;
+    }
+    public void ApplyDamage(int damage)
+    {
+        _currentHealth -= damage;
+        HealthChanged?.Invoke(_currentHealth, _health);
+    }
+    public void AddMoney(int money)
+    {
+        Money += money;
+        MoneyChanged?.Invoke(Money);
     }
 }
