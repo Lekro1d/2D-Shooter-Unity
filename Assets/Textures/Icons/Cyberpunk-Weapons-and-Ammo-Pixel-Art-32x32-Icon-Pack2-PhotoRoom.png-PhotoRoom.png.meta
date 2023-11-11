@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 2c5346e20e8e1cc4a807c0a75398bde4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f0e33d4eaedd4aac423f7c2d05cb5
+      internalID: 1852667598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 255
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e09254e1f6b494ea91bf2ac8949ac4
+      internalID: 1465830917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 240
+        width: 122
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2b690e0e546f4891334498dad26fc
+      internalID: 839011515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 360
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dd17ea67bc6ba4caf7a63d75ea4f38
+      internalID: -696487750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 252
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed8f716af9cbbc42819d8d3d055d4f3
+      internalID: -595473911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 252
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3ce8a4a1ba74d4c92c8a5b6346f407
+      internalID: -1719021420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 265
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0b5158481a104c86759a19207cce1
+      internalID: -1882761787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 260
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19c4b53c8f8ad4c99d75403e44cd63
+      internalID: -1109010270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 242
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e579a7bc835c4e8c3da93b170b62e
+      internalID: -1773398335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 266
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1bb5ca73fe7ff42ad59c3de0d5f45d
+      internalID: -1323630588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 264
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38492164838ba941b29b3df8c8cd124
+      internalID: 2084818042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a8b6c626c4db34c97becda94eef5b5
+      internalID: -2078492743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1082c016b01880141b572b12550b8ae1
+      internalID: -1248317786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 126
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89551fdf19625c4c9de0c80217dba7f
+      internalID: -531377438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 132
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c4f5b7d154d5b4ca5919d12a25f918
+      internalID: -1347603068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 138
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61730330d9eaaa439d75f9ac88fe380
+      internalID: -1526693175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 138
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b2ff2aa54c7874385011450706bd4d
+      internalID: -1039622193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 136
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c195b492f4096e34a85e83afee6e6ff6
+      internalID: 1157313031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 135
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea3840bb1bcbf4d8d90e8ad31bef70
+      internalID: 94730244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 138
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aec9f254bb28b46b0647331f65fecf
+      internalID: 852522578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 150
+        width: 115
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f213714fcc7104548b14abea3d750443
+      internalID: -666897460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 150
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e8c0aa1be31744866578542e5ae3f
+      internalID: -876946926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4669e61688f3924086384aaa96c5880
+      internalID: -304256547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 143
+        width: 116
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fda5b80a35947429e4253ffc4a060e
+      internalID: -1111642229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_51
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef9c5617d0a164db689c7da37b6446
+      internalID: -2146681495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b27da25d627d947af9fa530404ca6e
+      internalID: 1826718066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 16
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb144bcbc1155a5499eb96670e8a791b
+      internalID: -495642906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_54
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 6
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5f4873f6a3063448d1a69d9e877f94
+      internalID: 996239289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_55
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 9
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e585e2046071546acba9530afdb399
+      internalID: 1638947574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_58
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 12
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfd769e91d53054d90ebf65bd23c727
+      internalID: 941636881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_59
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 6
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91740f03d36ee4541ba33012309bdb52
+      internalID: 573420950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_60
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 19
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a099f22937e747441b2b2e156e1b8f83
+      internalID: 350601850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_62
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 19
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c7ceeec6c09274488be2257c112c0a
+      internalID: -1607258475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_63
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 18
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a096ed0024d352345bfd3afc090133d3
+      internalID: 935846625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf4243410e206b4985d32628dd0df01
+      internalID: -843218018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_0: 1852667598
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_1: 61101666
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_10: -1773398335
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_11: -1323630588
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_12: -407092560
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_13: 2084818042
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_14: 1082485509
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_15: -863115456
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_16: 482526306
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_17: 165552434
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_18: -1619745726
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_19: -1753135684
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_2: 1465830917
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_20: -943730996
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_21: 1021012024
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_22: -2058673965
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_23: -120125204
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_24: -2078492743
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_25: -1248317786
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_26: 1319958947
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_27: -978864711
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_28: -531377438
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_29: 1155049163
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_3: 715716716
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_30: -1347603068
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_31: 1073723533
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_32: -1526693175
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_33: -1039622193
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_34: 1157313031
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_35: 94730244
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_36: -1904942633
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_37: 852522578
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_38: -666897460
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_39: 307973853
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_4: 839011515
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_40: -876946926
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_41: -304256547
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_42: -1111642229
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_43: 1168501131
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_44: 159327140
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_45: -641905143
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_46: -1907582044
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_47: 1470707602
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_48: -1388716645
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_49: -1782366110
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_5: -696487750
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_50: 1846718547
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_51: -2146681495
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_52: 1826718066
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_53: -495642906
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_54: 996239289
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_55: 1638947574
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_56: 1871658321
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_57: 409374460
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_58: 941636881
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_59: 573420950
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_6: -595473911
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_60: 350601850
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_61: 1570265469
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_62: -1607258475
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_63: 935846625
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_64: 141857126
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_65: -1381171186
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_66: -1761423173
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_67: -1150472383
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_68: -843218018
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_69: 1643167131
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_7: -1719021420
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_70: 482960618
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_71: 844453978
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_72: -1435282876
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_73: -231116203
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_74: -1568951471
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_8: -1882761787
+      Cyberpunk-Weapons-and-Ammo-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_9: -1109010270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

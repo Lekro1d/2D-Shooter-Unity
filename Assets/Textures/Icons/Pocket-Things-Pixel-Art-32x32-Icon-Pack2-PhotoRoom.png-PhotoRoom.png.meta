@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: c32619fdc2e16b34f8faf7e959a3cf4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 390
+        width: 74
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44613e7c8b098341a1a67e170a88397
+      internalID: -427554435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 386
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd217e0771cf154485c6c46ef753772
+      internalID: -1104405213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 387
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad80a271b6258c409adfb2e6df43623
+      internalID: -2129454402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 390
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a019786958f623c4994fec6102fac16b
+      internalID: 83576954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 384
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87291d42aa752e344b71403b914771d5
+      internalID: -952039745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 384
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786e72f2d2f2a624a86821add8b668cf
+      internalID: -715548567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 390
+        width: 111
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467cbf95ce338442a82070612c8a0ca
+      internalID: 149543206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 393
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d4627eac0b53409c626f938b40348
+      internalID: 529810021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 386
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a58192d6a08d44b076817a67f3206
+      internalID: 2137712160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 402
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7be68fb000a042b9d4ca50662f63a
+      internalID: -1028455590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9796b5da1944cc849935a19b673b295d
+      internalID: -1860318481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 372
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5085dd35076734b4bb1c72b45e7adb66
+      internalID: -11016469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 266
+        width: 81
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f934fbdf1bb8794694c020e92d4568a
+      internalID: 570276288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 264
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8336e5e86028bf346a5bfd16013ab246
+      internalID: 894517872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 282
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4204a48c092c20428ee65eeb249d1fc
+      internalID: -2144204570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 264
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37905f8c06337946ae2eb9704c94964
+      internalID: -1675875084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 269
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6edf6ed504d1b4bb6d8b7f3d1377bf
+      internalID: -676116290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247b28078bcc4f44493b7475006b32d0
+      internalID: 494408470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 266
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf238b220d404148b63c0fcf2520487
+      internalID: 2073638907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 266
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff467e71f45ca545951dd0d5516e0d0
+      internalID: 759852054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 266
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b24fb817d08d05439ae6b8b8c5e04aa
+      internalID: -711136069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 266
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d2a97f3d25eb3448e623391547ad76
+      internalID: 161637168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 264
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a4a28215c36c64b851fbd4c9d8d037
+      internalID: -606443720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad86c9cf3bbc04684472f6fceb0be7
+      internalID: -1845724265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 144
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9e38e1364b62f4b887bee5fa8ea606
+      internalID: 1257011778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d7ed5e597bb444abefd928803a325
+      internalID: 68727005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_47
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 144
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd6f87adbe5d549965c8153cdf8814
+      internalID: -2019186669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 150
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701724c570925847b98405d33e33a14
+      internalID: 116551444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2da9db26d3e7f4abce662ecc5992f3
+      internalID: 1465896839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 156
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb70f3cb81cac4094b7eeca444fe71
+      internalID: -1770825377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 156
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68a9842148b634ea2fe8dab7104101
+      internalID: -1239796831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_53
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 159
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7df0336d8d6fa4e8b728043cdbe2d5
+      internalID: 1451996942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_54
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 162
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc40c83d5a01434ab7cb0b2ada93074
+      internalID: -217561240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 20
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b98f239a6b0f489e7b64254b4c251
+      internalID: -1853418766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fdc3e44264a7841b7944e5386cb4fb
+      internalID: -1457517550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e5e841a5eb134ab381bd6d0c7c13e
+      internalID: 518417957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d1477c114b9144b47f8211c36a3ea
+      internalID: 1193205419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_64
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 18
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3468bb1cd58ef4da3fda78ae3603b4
+      internalID: 1601078949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_65
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 18
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f8762ab5fcdcc4f86398896ea857b9
+      internalID: -1735774479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_66
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 22
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c97bd6466e55e478010ee9e5399903
+      internalID: 1838504933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_67
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 24
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70eb3469a41dde44b2e7ccf38a30460
+      internalID: 545238817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_68
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 36
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af22677e37741d2438d003c1222e7ad8
+      internalID: 2072489300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_69
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 42
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e907fd941253e054f845ec1e37399557
+      internalID: -2137661161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_71
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09243da388f95b545b46474c6587676a
+      internalID: 665196351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_0: -1445409761
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_1: 1166350313
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_10: 83576954
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_11: -952039745
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_12: -715548567
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_13: 2068367442
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_14: 149543206
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_15: 529810021
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_16: 2137712160
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_17: -2038885803
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_18: -1028455590
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_19: -431955877
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_2: -427554435
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_20: 1470892765
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_21: -1860318481
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_22: -725599768
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_23: -11016469
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_24: 570276288
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_25: 894517872
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_26: -2144204570
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_27: -1675875084
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_28: -676116290
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_29: 494408470
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_3: -257812704
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_30: 2073638907
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_31: 759852054
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_32: -711136069
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_33: 161637168
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_34: -1898842436
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_35: 1926330660
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_36: -2104314886
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_37: 258919707
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_38: 472992747
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_39: -606443720
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_4: -1157857490
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_40: -34276617
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_41: -1845724265
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_42: 1257011778
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_43: 68727005
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_44: -212823151
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_45: -1822506527
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_46: -1637324656
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_47: -2019186669
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_48: 116551444
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_49: 1465896839
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_5: 1693715805
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_50: 887544227
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_51: -1770825377
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_52: -1239796831
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_53: 1451996942
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_54: -217561240
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_55: 1858939467
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_56: -1553658175
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_57: 384764359
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_58: 1780085315
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_59: -1853418766
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_6: 1495132394
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_60: -1457517550
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_61: 518417957
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_62: -38579164
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_63: 1193205419
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_64: 1601078949
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_65: -1735774479
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_66: 1838504933
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_67: 545238817
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_68: 2072489300
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_69: -2137661161
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_7: -542646645
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_70: -2064034823
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_71: 665196351
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_72: -1621272155
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_8: -1104405213
+      Pocket-Things-Pixel-Art-32x32-Icon-Pack2-PhotoRoom.png-PhotoRoom_9: -2129454402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class HealthBar : Bar
+{
+    [SerializeField] private Player _player;
+    private void OnEnable()
+    {
+        _player.HealthChanged += OnValueChanged;
+        _fill.color = _gradient.Evaluate(1f);
+    }
+
+    private void OnDisable()
+    {
+        _player.HealthChanged -= OnValueChanged;
+    }
+}
