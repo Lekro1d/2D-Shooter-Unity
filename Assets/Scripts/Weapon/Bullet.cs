@@ -17,15 +17,15 @@ public class Bullet : MonoBehaviour
        transform.Translate(Vector2.right * _speed * Time.deltaTime); 
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.gameObject.TryGetComponent(out Enemy enemy))
-        {
-            enemy.TakeDamage(_damage);
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if(collision.gameObject.TryGetComponent(out Enemy enemy))
+    //    {
+    //        enemy.TakeDamage(_damage);
 
-            Destroy(gameObject);
-        }
-    }
+    //        Destroy(gameObject);
+    //    }
+    //}
     private void DestroyAmmo()
     {
         Destroy(gameObject);

@@ -63,4 +63,9 @@ public class Player : MonoBehaviour
         }
         _currentWeapon = newWeapon;
     }
+
+    public void AddWeapon(Weapon weapon)
+    {
+        _weapons.Add(weapon);
+    }
 }

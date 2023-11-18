@@ -21,5 +21,15 @@ public abstract class Weapon : MonoBehaviour
 
     [HideInInspector] public Vector3 mousePos;
 
+    public string Label => _label;
+    public int Price => _price;
+    public bool IsBuyed => _isBuyed;
+    public Sprite Icon => _icon;
+
     public abstract IEnumerator Shoot();
+
+    public void Buy()
+    {
+        _isBuyed = true;
+    }
 }
