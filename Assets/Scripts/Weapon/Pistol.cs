@@ -4,12 +4,6 @@ using UnityEngine;
 
 public class Pistol : Weapon
 {
-    //[SerializeField] private GameObject _prefabBullet;
-    //[SerializeField] private Transform _shootPoint;
-    //[SerializeField] private GameObject _effect;
-    //[SerializeField] private float _rightRotation;
-    //[SerializeField] private float _leftRotation;
-
     public override IEnumerator Shoot()
     {
         mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -30,7 +24,7 @@ public class Pistol : Weapon
         Instantiate(_prefabBullet, _shootPoint.position, _shootPoint.rotation);
 
         var prefEffect = Instantiate(_effect, _shootPoint.position, _shootPoint.rotation);
-        yield return new WaitForSeconds(0.2f);
+        yield return new WaitForSeconds(0.4f);
         Destroy(prefEffect);
     }
 }

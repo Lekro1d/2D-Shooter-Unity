@@ -10,7 +10,6 @@ public class Player : MonoBehaviour
     [SerializeField] private int _health;
     [SerializeField] public List<Weapon> _weapons;
     [SerializeField] private CharacterController2D _controller;
-    [SerializeField] private Transform _transform;
 
     public int Money { get; private set; }
     private float _currentShotTime;

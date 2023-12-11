@@ -1,34 +1,50 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Enemy : MonoBehaviour
 {
+    #region Variables
+
     [HideInInspector] public EnemyStateMachine stateMachine;
     [HideInInspector] public IdleState idle;
     [HideInInspector] public PatrolState patrol;
     [HideInInspector] public AttackState attack;
     [HideInInspector] public DetectState detect;
+    [HideInInspector] public HurtState hurt;
 
-    [SerializeField] protected int health;
-    [SerializeField] protected int reward;
+    [SerializeField] private Player _player;
+    public Player Target => _player;
+
+    public int health;
+    public int reward;
     public int damage;
+    public float timerAttack;
+    public float speed;
+    public bool mFacingRight = false;
 
-    public Player player;
     public Transform playerPos; //Позиция игрока
+
     public float detectDistance; //Расстояние когда враг заметит игрока
     public float loseDistance; //Расстояние когда враг отпустит игрока
     public float attackDistance; // Расстояние чтобы ударить игрока
-    public float _speed;
+
     public List<GameObject> _pointPatrol;
-    public bool mFacingRight = false;
-    public bool isAttacking = false;
+
     public int walkAnim = Animator.StringToHash("IsWalk");
     public int attackAnim = Animator.StringToHash("IsAttack");
+    public int hurtAnim = Animator.StringToHash("IsHurt");
 
+    private int _currentHealth;
     private Animator _animator;
+
+    public UnityAction<int, int> HealthChanged;
+    #endregion
+
     private void Start()
     {
+        _currentHealth = health;
         _animator = GetComponent<Animator>();
 
         GameObject player = GameObject.FindWithTag("Player");
@@ -41,6 +57,7 @@ public class Enemy : MonoBehaviour
         patrol = new PatrolState(this, stateMachine);
         attack = new AttackState(this, stateMachine);
         detect = new DetectState(this, stateMachine);
+        hurt = new HurtState(this, stateMachine);
 
         stateMachine.Init(patrol);
     }
@@ -75,5 +92,20 @@ public class Enemy : MonoBehaviour
     public void SetBoolAnimation(int param, bool value)
     {
         _animator.SetBool(param, value);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        stateMachine.ChangeState(hurt);
+
+        _currentHealth -= damage;
+        HealthChanged?.Invoke(_currentHealth, health);
+
+        if(_currentHealth <= 0)
+        {
+            _player.AddMoney(reward);
+
+            Destroy(gameObject);
+        }
     }
 }
